@@ -1,0 +1,105 @@
+
+.image1{
+    position: relative;
+    top: 0rem;
+}
+.chat{
+    position: absolute;
+    top:10rem;
+    left: 10rem ;
+    width: 300px;
+}
+.panda{
+    position: absolute ;
+    top: 25rem;
+    right: 48rem;
+}
+.textt{
+    position: absolute;
+    top: 15rem;
+    left: 13rem;
+    font-family: 'Finger Paint', cursive;
+}
+.board{
+    position: absolute;
+    top: 30rem;
+    right: 63rem;
+}
+.input{
+    position: absolute;
+    top: 35rem;
+    left: 5rem;
+    width: 100px; 
+}
+.submit{
+   width: 100px;
+   position: absolute;
+   top: 50rem;
+   left: 20rem;
+   
+}
+.submittxt{
+    position: absolute;
+    top: 50rem;
+    left: 21rem;
+    font-family: 'Finger Paint', cursive;
+    color: white;
+}
+
+/* farenhiet */
+.faren{
+    visibility: hidden;
+}
+.image2{
+    position: absolute;
+    top: 1rem;
+    left: 40rem;
+}
+.panda2{
+    position: absolute;
+    top: 10rem;
+    right:10rem;
+    width: 200px;
+
+}
+.board2{
+    position: absolute;
+    top: 10rem;
+    right:20rem;
+    width: 200px;
+}
+.Fanswer{
+    position: absolute;
+    top: 12rem;
+    right:25rem;
+    font-family: 'Finger Paint', cursive;
+}
+
+/* kalvin */
+.kel{
+    visibility: hidden;
+}
+.image3{
+    position: absolute;
+    top: 30rem;
+    left: 40rem;
+}
+.panda3{
+    position: absolute;
+    top: 40rem;
+    right:10rem;
+    width: 120px;
+}
+.board3{
+    position: absolute;
+    top: 40rem;
+    right:20rem;
+    width: 200px;
+}
+.Panswer{
+    position: absolute;
+    top: 42rem;
+    right:25rem;
+    font-family: 'Finger Paint', cursive;
+}
+
